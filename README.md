@@ -7,7 +7,7 @@ point in a maze.
 
 https://user-images.githubusercontent.com/55325380/201401935-2e1a79b2-07c9-4f87-839d-4d4e2622155d.webm
 
-# About the project 
+
 
 # Depth-First Search
 In order to figure out how to traverse a maze through code, we first need to understand what depth-first search is. Depth-first search (sometimes referred to in this article as DFS) is a graph/tree traversal algorithm that follows a path as far as it can until it either, reaches the goal or has nowhere else to go. It’s almost like running as far as you can in one direction until you hit a wall. Hopefully that analogy helps clear up any lingering confusion. You might even be starting to see how we can use Depth-First Search to solve a maze!
