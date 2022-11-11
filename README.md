@@ -4,7 +4,8 @@ wants to find by a single mouse click. Implemented DFS Algorithm to find the pat
 point in a maze.
 
 # demo Video :- 
-https://user-images.githubusercontent.com/74968170/196412431-26733d97-5a90-449f-8e1e-2f069eab5fce.mp4
+
+https://user-images.githubusercontent.com/55325380/201401935-2e1a79b2-07c9-4f87-839d-4d4e2622155d.webm
 
 # About the project 
 
